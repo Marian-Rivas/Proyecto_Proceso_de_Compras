@@ -57,3 +57,5 @@ Nivel de adopción por parte del equipo
 Problemas o resistencias encontradas
 
 Retroalimentación de usuarios clave
+
+<img width="768" height="334" alt="image" src="https://github.com/user-attachments/assets/615ccbad-157b-4033-887d-fa9ca168dbd9" />
