@@ -44,6 +44,9 @@ Antes de iniciar el proyecto, establece métricas que te permitan medir el éxit
 
 - Satisfacción interna (encuestas a usuarios del proceso)
 
+<img width="776" height="293" alt="image" src="https://github.com/user-attachments/assets/6eca7a8d-9e1f-4455-811a-89636a90bf73" />
+
+
 # 3. Evalúa cualitativamente
 Además de los números, considera aspectos como:
 
